@@ -11,6 +11,9 @@ Scout tv is an internet media channels project to educate people living skills l
 - Planning, prepairing knowledge about camping, trekking, hiking, travel trip, …
 - Violate, sex education.
 - Reduce pollution environment, protect green environment knowledge.
-- Follow, maintain rules, laws for safety community.
+- Following, maintaining rules, laws for safety community.
 
 ![image.png](image.png)
+
+### Notes
+https://six-zinc-ad4.notion.site/Scout-tv-1b65e832d6ee80faafb1efb6121b57a2
