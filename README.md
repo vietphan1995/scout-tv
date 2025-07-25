@@ -15,5 +15,7 @@ Scout tv is an internet media channels project to educate people living skills l
 
 ![image.png](image.png)
 
+[back to projects …](https://github.com/vietphan1995/projects)
+
 ### Notes
 https://six-zinc-ad4.notion.site/Scout-tv-1b65e832d6ee80faafb1efb6121b57a2
