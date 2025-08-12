@@ -1,6 +1,8 @@
-# Scout tv
+# scout-tv
 
-# Introduction
+## Scout TV
+
+### Introduction
 
 [https://github.com/vietphan1995/scout-tv.git](https://github.com/vietphan1995/scout-tv.git)
 
@@ -15,7 +17,7 @@ Scout tv is an internet media channels project to educate people living skills l
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/Scout-tv-1b65e832d6ee80faafb1efb6121b57a2
+https://phantrungviet.notion.site/scout-tv-1b65e832d6ee80faafb1efb6121b57a2
