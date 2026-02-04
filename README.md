@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/scout-tv.git](https://github.com/vietphan1995/scout-tv.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:scout-tv_project&body=left_your_idea)
+
 Scout tv is an internet media channels project to educate people living skills like:
 
 - Rescue, saving people in danger place like river, beach, swimming pool, mountain, forest, snow, sand, … in danger context like accident, bad weather, …
@@ -16,6 +18,8 @@ Scout tv is an internet media channels project to educate people living skills l
 - Following, maintaining rules, laws for safety community.
 
 ![image.png](image.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
